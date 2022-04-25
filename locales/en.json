@@ -1,0 +1,16 @@
+{
+  "ADMIN_NOT_FOUND": "Admin not found",
+  "USER_NOT_FOUND": "User not found",
+  "AUTH_ERR": "Please authenticate",
+  "PURCHASED_SUCCESSFULLY": "You have purchased successfully",
+  "PURCHASE_TIME_EXPIRED": "Purchase time of lottery has been expired",
+  "LOTTERY_IS_NOT_STARTED": "Lottery is not started yet",
+  "LOTTERY_NOT_FOUND": "Lottery not found",
+  "ALREADY_PURCHASED": "You have already purchased",
+  "LOTTERY_IS_FULL": "Lottery is already full",
+  "EMAIL_ALREADY_EXIST": "Email id already exists",
+  "NOT_FOUND": "Not Found",
+  "SUCCESS": "Success",
+  "INCORRECT_PASSWORD": "Password is Incorrect",
+  "INTERNAL_SERVER_ERR": "Internal server error"
+}

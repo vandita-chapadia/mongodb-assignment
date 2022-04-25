@@ -1,0 +1,16 @@
+{
+  "ADMIN_NOT_FOUND": "Administrateur introuvable",
+  "USER_NOT_FOUND": "Utilisateur non trouvé",
+  "AUTH_ERR": "Veuillez vous authentifier",
+  "PURCHASED_SUCCESSFULLY": "Vous avez acheté avec succès",
+  "PURCHASE_TIME_EXPIRED": "Le délai d'achat de la loterie a expiré",
+  "LOTTERY_IS_NOT_STARTED": "La loterie n'a pas encore commencé",
+  "LOTTERY_NOT_FOUND": "Loterie introuvable",
+  "ALREADY_PURCHASED": "Vous avez déjà acheté",
+  "LOTTERY_IS_FULL": "La loterie est déjà complète",
+  "EMAIL_ALREADY_EXIST": "L'identifiant de messagerie existe déjà",
+  "NOT_FOUND": "Pas trouvé",
+  "SUCCESS": "Succès",
+  "INCORRECT_PASSWORD": "Le mot de passe est incorrect",
+  "INTERNAL_SERVER_ERR": "Erreur Interne du Serveur"
+}

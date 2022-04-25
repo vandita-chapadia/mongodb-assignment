@@ -1,0 +1,46 @@
+{
+  "name": "lottery-system",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "env-cmd -f .env node src/index.js",
+    "dev": "env-cmd -f .env nodemon src/index.js",
+    "test": "env-cmd -f test.env jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RajanSimform1@bitbucket.org/rajansimform1/lottery-system.git"
+  },
+  "keywords": [],
+  "author": "Rajan Lodhiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/rajansimform1/lottery-system/issues"
+  },
+  "homepage": "https://bitbucket.org/rajansimform1/lottery-system#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "i18n": "^0.14.2",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "node-schedule": "^2.1.0",
+    "swagger-jsdoc": "^6.2.0",
+    "swagger-ui-express": "^4.3.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "env-cmd": "^10.1.0",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
